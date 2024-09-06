@@ -43,7 +43,7 @@ This Python script analyzes and predicts NSE stock prices using an LSTM (Long Sh
     Edit the `stock_symbol`, `start_date`, and `end_date` variables in `app.py` as needed, then run the script:
 
     ```bash
-    python app.py
+    python analyze_nse_stock.py
     ```
 
     The script will generate a plot showing the historical stock prices, model predictions, and future price forecasts for the next 30 days.
